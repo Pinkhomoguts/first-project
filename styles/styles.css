@@ -53,7 +53,7 @@ left: 64px;
 
  .header_main-illustration{
 height:608px;
-width: 765px;   
+width: 765px;
 position: absolute;
 right: 0px;
 bottom: 0px;
@@ -207,7 +207,7 @@ font-weight: normal;
    font-size: 120px;
    font-weight: 600;
    padding-top: 30px;
-   margin-bottom: 20px;   
+   margin-bottom: 20px;
   z-index: 1;
   padding-left: 500px;
 position: absolute;
@@ -225,10 +225,10 @@ top: 430px;
 z-index: 1;
 }
 .feynman__link{
-   line-height: 51px;
-   font-size: 30px;
-   font-weight: normal;
-text-decoration:none ;
+line-height: 51px;
+font-size: 30px;
+font-weight: normal;
+text-decoration:none;
 position: absolute;
 right: 48px;
 bottom: 42.5%;
@@ -315,7 +315,6 @@ bottom: -200px;
    
 }
  .kaufman__triangle{
-   
    width: 817px;
    position: absolute;
    right: -210px;
