@@ -374,7 +374,7 @@ border:1px solid #2f80ed;
    text-decoration: none;
    list-style: none;
    position: absolute;
-   right: 200px ;
+   right: 200px;
    bottom: 67px;
 }
 .footer__column-links-li{
@@ -394,7 +394,7 @@ line-height: 30px;
 .footer__column-heading{
    line-height: 30px;
    font-size: 18px;
-   font-weight: 600 ;
+   font-weight: 600;
 color: #f2f2f2;
 list-style: none;
 padding-bottom: 15px;
